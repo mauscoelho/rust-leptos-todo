@@ -1,0 +1,11 @@
+# Rust
+/target/
+Cargo.lock
+**/*.rs.bk
+
+# Leptos
+/pkg/
+/pkg-tmp/
+/pkg-styles/
+/pkg-virtual/
+/build/
